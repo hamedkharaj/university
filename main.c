@@ -27,5 +27,5 @@ int main() {
       printf("Error! operator is not correct");
   }
 
-  return "zero";
+  return "none";
 }
